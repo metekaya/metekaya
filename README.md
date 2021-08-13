@@ -1,7 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Merhabalar+!;Umarım+harika+bir+gün+geçiriyorsundur!)](https://git.io/typing-svg)
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+There+!+👊🏼;I+am+Mete+!;Nice+to+see+you+here+!&center=true&size=30">
+  </a>
+</h1>
 
-
-- 🌱 I’m currently learning Flutter-Dart
+- 👨🏼‍💻 I’m currently developing a Flutter App
 - 👯 I’m looking to collaborate on Flutter-Dart
 - 📫 How to reach me: metekaya55@gmail.com
 
