@@ -10,4 +10,6 @@
 ![Mete Kaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=metekaya&show_icons=true&theme=dracula)
 
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=metekaya&" alt="metekaya" /></p>
+
 
