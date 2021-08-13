@@ -4,11 +4,10 @@
 - 👯 I’m looking to collaborate on Flutter-Dart
 - 📫 How to reach me: metekaya55@gmail.com
 
-![Mete Kaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=metekaya&show_icons=true&theme=merko)
-
 
 [![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metekaya&exclude_repo=automobile-data-analysis)](https://github.com/metekaya/github-readme-stats)
 
+![Mete Kaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=metekaya&show_icons=true&theme=dracula)
 
 
 
