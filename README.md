@@ -7,7 +7,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@metekkaya-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://https://twitter.com/metekkaya)](https://twitter.com/metekkaya) [![Linkedin Badge](https://img.shields.io/badge/-metekaya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mete-kaya-2a57b31a7/)](https://www.linkedin.com/in/mete-kaya-2a57b31a7/)
 [![Gmail Badge](https://img.shields.io/badge/-metekaya55@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:metekaya55@gmail.com)](mailto:metekaya55@gmail.com)
 
-<h3>Programming Languages and Technologies I use</h3><hr>
+<h3>Languages and Technologies I Use</h3><hr>
 
 <a href="https://dart.dev/" title="Dart"><img src="icons/dartlang.png" /></a>
 <a href="https://flutter.dev/" title="Flutter"><img src="icons/flutter.png" /></a>
@@ -15,7 +15,8 @@
 <a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
 <a href="http://csharp.net/" title="C#"><img src="icons/csharp.png" /></a>
-<a href="https://nodejs.org" title="C#"><img src="icons/nodejs.png" /></a>
+<a href="https://www.java.com/" title="Java"><img src="icons/java.png" /></a>
+<a href="https://nodejs.org" title="NodeJS"><img src="icons/nodejs.png" /></a>
 <a href="https://pugjs.org/" title="Pug"><img src="icons/pug.png" /></a>
 <a href="https://www.mongodb.com/" title="MongoDB"><img src="icons/mongodb.png" /></a>
 <a href="" title="HTML"><img src="icons/html.png" /></a>
