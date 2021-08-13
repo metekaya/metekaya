@@ -3,14 +3,19 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+There!+🤙;Nice+to+see+you+here!;I+am+Mete!&center=true&size=30">
   </a>
 </h1>
-[![Twitter Badge](https://img.shields.io/badge/-@metekkaya-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://https://twitter.com/metekkaya)](https://twitter.com/metekkaya) [![Linkedin Badge](https://img.shields.io/badge/-metekaya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mete-kaya-2a57b31a7/)](https://www.linkedin.com/in/mete-kaya-2a57b31a7/)
+
+[![Twitter Badge](https://img.shields.io/badge/-@metekkaya-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://https://twitter.com/metekkaya)](https://twitter.com/metekkaya) 
+[![Linkedin Badge](https://img.shields.io/badge/-metekaya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mete-kaya-2a57b31a7/)](https://www.linkedin.com/in/mete-kaya-2a57b31a7/)
 [![Gmail Badge](https://img.shields.io/badge/-metekaya55@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:metekaya55@gmail.com)](mailto:metekaya55@gmail.com)
 
-- 👨🏼‍💻  I am currently developing a flutter app.
+<h3>About Me</h3><hr>
+
+- 🌱  I am trying to learn Machine Learning. 
+- 💻  I am currently developing a flutter app.
 - ⚡  Fun fact: I love making 3D models.
 
-
 <h3>Languages and Technologies I Use</h3><hr>
+
 
 <a href="https://dart.dev/" title="Dart"><img src="icons/dartlang.png" /></a>
 <a href="https://flutter.dev/" title="Flutter"><img src="icons/flutter.png" /></a>
