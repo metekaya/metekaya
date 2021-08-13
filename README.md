@@ -1,4 +1,5 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Merhabalar+!;Umarım+harika+bir+gün+geçiriyorsundur!)](https://git.io/typing-svg)
+
 
 - 🌱 I’m currently learning Flutter-Dart
 - 👯 I’m looking to collaborate on Flutter-Dart
