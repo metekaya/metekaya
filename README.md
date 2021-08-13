@@ -22,6 +22,7 @@
 <a href="https://firebase.google.com" title="Firebase"><img src="icons/firebase.png" /></a>
 <a href="https://nodejs.org" title="NodeJS"><img src="icons/nodejs.png" /></a>
 <a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
+<a href="https://www.blender.org" title="Blender"><img src="icons/blender.png" /></a>
 
 <h3>Stats</h3><hr>
 
