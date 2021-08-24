@@ -10,7 +10,7 @@
 
 <h3>About Me</h3><hr>
 
-- 🌱  I am trying to learn Data Analysis and Machine Learning. 
+- 🌱  I am trying to learn Data Analysis.
 - 💻  I am currently developing a flutter app.
 - ⚡  Fun fact: I love making 3D models.
 
