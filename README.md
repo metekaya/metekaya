@@ -31,6 +31,7 @@
 <a href="https://nodejs.org" title="NodeJS"><img src="icons/nodejs.png" /></a>
 <a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
 <a href="https://www.blender.org" title="Blender"><img src="icons/blender.png" /></a>
+<a href="https://www.djangoproject.com" title="Django"><img src="icons/django.png" /></a>
 
 <!--
 <h3>Stats</h3><hr>
