@@ -10,8 +10,7 @@
 
 <h3>About Me</h3><hr>
 
-- 🌱  I am trying to learn React.
-- 💻  I am currently working on a team.
+- 🪖  I am currently doing my military service.
 - ⚡  Fun fact: I love making 3D models.
 
 <h3>Languages and Technologies I Use</h3><hr>
