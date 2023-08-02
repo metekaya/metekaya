@@ -8,6 +8,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-metekaya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mete-kaya-2a57b31a7/)](https://www.linkedin.com/in/mete-kaya-2a57b31a7/)
 [![Gmail Badge](https://img.shields.io/badge/-metekaya55@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:metekaya55@gmail.com)](mailto:metekaya55@gmail.com)
 
+<h3>Notes</h3><hr>
+- I was using GitLab for development, so that's why my GitHub is looks empty. If you wanna see my work at GitLab, you can contact me.
+
 <h3>About Me</h3><hr>
 
 - ⚡  Fun fact: I love making 3D models.
