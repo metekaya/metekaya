@@ -23,6 +23,8 @@
 <a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
 <a href="https://www.djangoproject.com" title="Django"><img style="height: 28px" src="icons/django.png" /></a>
 <a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
+<a href="https://redux.js.org/" title="Redux"><img style="height: 28px" src="icons/redux.png" /></a>
+<a href="https://nextjs.org/" title="NextJS"><img style="height: 28px" src="icons/nextjs.png" /></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
 <a href="http://csharp.net/" title="C#"><img src="icons/csharp.png" /></a>
 <a href="https://www.java.com/" title="Java"><img src="icons/java.png" /></a>
