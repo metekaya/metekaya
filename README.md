@@ -1,19 +1,5 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+There!;I+am+Mete;Nice+to+see+you+here!&center=true&size=30">
-  </a>
-</h1>
-
-[![Twitter Badge](https://img.shields.io/badge/-@metekkaya-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://https://twitter.com/metekkaya)](https://twitter.com/metekkaya) 
-[![Linkedin Badge](https://img.shields.io/badge/-metekaya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mete-kaya-2a57b31a7/)](https://www.linkedin.com/in/mete-kaya-2a57b31a7/)
-[![Gmail Badge](https://img.shields.io/badge/-metekaya55@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:metekaya55@gmail.com)](mailto:metekaya55@gmail.com)
-
 <h3>Notes</h3><hr>
 - I was using GitLab for development, so that's why my GitHub is looks empty. If you wanna see my work at GitLab, you can contact me.
-
-<h3>About Me</h3><hr>
-
-- ⚡  Fun fact: I love making 3D models.
 
 <h3>Languages and Technologies I Use</h3><hr>
 
@@ -26,14 +12,18 @@
 <a href="https://nextjs.org/" title="NextJS"><img style="height: 28px" src="icons/nextjs.png" /></a>
 <a href="https://dart.dev/" title="Dart"><img src="icons/dartlang.png" /></a>
 <a href="https://flutter.dev/" title="Flutter"><img src="icons/flutter.png" /></a>
-<a href="http://csharp.net/" title="C#"><img src="icons/csharp.png" /></a>
-<a href="" title="HTML"><img src="icons/html.png" /></a>
-<a href="" title="CSS"><img src="icons/css.png" /></a>
-<a href="https://pugjs.org/" title="Pug"><img src="icons/pug.png" /></a>
 <a href="https://www.mongodb.com/" title="MongoDB"><img src="icons/mongodb.png" /></a>
 <a href="https://firebase.google.com" title="Firebase"><img src="icons/firebase.png" /></a>
 <a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
 <a href="https://www.blender.org" title="Blender"><img src="icons/blender.png" /></a>
+
+<h3>Contact</h3><hr>
+
+[![Twitter Badge](https://img.shields.io/badge/-@metekkaya-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://https://twitter.com/metekkaya)](https://twitter.com/metekkaya) 
+[![Linkedin Badge](https://img.shields.io/badge/-metekaya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mete-kaya-2a57b31a7/)](https://www.linkedin.com/in/mete-kaya-2a57b31a7/)
+[![Gmail Badge](https://img.shields.io/badge/-metekaya55@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:metekaya55@gmail.com)](mailto:metekaya55@gmail.com)
+
+
 
 <!--
 <h3>Stats</h3><hr>
