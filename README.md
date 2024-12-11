@@ -1,3 +1,4 @@
+<!--
 <h3>Notes</h3><hr>
 - I was using GitLab for development, so that's why my GitHub is looks empty. If you wanna see my work at GitLab, you can contact me.
 
@@ -16,7 +17,7 @@
 <a href="https://firebase.google.com" title="Firebase"><img src="icons/firebase.png" /></a>
 <a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
 <a href="https://www.blender.org" title="Blender"><img src="icons/blender.png" /></a>
-
+-->
 <h3>Contact</h3><hr>
 
 [![Twitter Badge](https://img.shields.io/badge/-@metekkaya-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://https://twitter.com/metekkaya)](https://twitter.com/metekkaya) 
